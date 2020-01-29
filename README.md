@@ -1,7 +1,7 @@
 # Extract-point-cloud-location
 
 [Requirement]
-- python
+- python 3
 - open3d
 
 This simple code can extract point clouds' each location.
